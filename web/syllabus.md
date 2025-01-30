@@ -7,7 +7,7 @@ layout:     main
 
 CS 6241, Spring 2025: Numerical Methods for Data Science  
 Lecture time: TR 2:55-4:10  
-Lecture location: Hollister 320
+Lecture location: Snee 1120
 
 Prof: [David Bindel](http://www.cs.cornell.edu/~bindel)  
 Email: <bindel@cornell.edu>  
