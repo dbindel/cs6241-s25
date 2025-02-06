@@ -3,7 +3,7 @@ title: Reaction paper
 layout: main
 ---
 
-**Due: Oct 3, 2023**
+**Due: Feb 25, 2025**
 
 The goal of this assignment is to get you thinking about research
 related to the ideas of the course and to stimulate ideas for final
@@ -16,11 +16,8 @@ as the one for your final project.
 ## Paper selection
 
 Select at least two papers related to the course (broadly construed).
-The papers do not have to be developing numerical methods; they could
+The papers do not have to be *developing* numerical methods; they could
 be applying numerical methods to a domain in which you have interest.
-I have [a list of some papers on my to-read list](paper-links.html)
-that you may consider, but you certainly should not feel limited to
-these.
 
 ## Reaction paper
 
@@ -43,9 +40,6 @@ Some questions that you might address in your analysis are:
 
 ## Submission guidelines
 
-Your paper should be properly typeset and submitted as a PDF on
-Canvas.  You can work on and submit in teams of size 1-3; these do not
-need to be the same as for your final project.  Please include all of
-the team member names and netids on the submission.  Your paper must
-include a references section with bibliographic information for the
-papers to which you are reacting.
+Your paper should be properly typeset and submitted as a PDF on CMS.
+Your paper must include a references section with bibliographic
+information for the papers to which you are reacting.
