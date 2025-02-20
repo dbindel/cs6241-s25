@@ -151,61 +151,12 @@
         Kolda and Hong, SIMODS 2020"
 #
 # ==================
-# Week 7
-#
--
-  date: 2025-03-04
-  info: Nonlinear dimensionality reduction
-  travel: SIAM CSE
-  hw:
-    - "[A global geometric framework for nonlinear dimensionality reduction](https://web.mit.edu/cocosci/Papers/sci_reprint.pdf),
-       Tenenbaum, de Silva, and Langford, Science 2000"
-    - "[Nonlinear dimensionality reduction by locally linear embedding](https://science.sciencemag.org/content/sci/290/5500/2323.full.pdf),
-       Roweis and Saul, Science 2000"
-    - "[Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), van der Maaten and Hinton, JMLR
-       2008"
-    - "[Dimensionality Reduction: A Comparitive Review](https://lvdmaaten.github.io/publications/papers/TR_Dimensionality_Reduction_Review_2009.pdf), van der Maaten,
-      Postma, and van den Herik, Tech report 2009"
-    - "[Dimension Reduction: A Guided Tour](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/FnT_dimensionReduction.pdf), Burges, FTML 2009"
-    - "[Global versus local methods in nonlinear dimensionality reduction](https://web.mit.edu/cocosci/Papers/nips02-localglobal-in-press.pdf), de Silva and Tenenbaum, NeurIPS 2003"
-    - "[Large-scale SVD and manifold learning](https://www.jmlr.org/papers/v14/talwalkar13a.html), Talwalkar, Kumar, Mohri,
-       and Rowley, JMLR 2013"
-    - "[Accelerating t-SNE using tree-based algorithms](https://jmlr.org/papers/v15/vandermaaten14a.html), van der Maaten, JMLR 2014"
--
-  date: 2025-03-06
-  info: Function approximation fundamentals
-  travel: SIAM CSE
-  hw:
-    - "[Nonlinear Approximation](https://www-cambridge-org.proxy.library.cornell.edu/core/journals/acta-numerica/article/nonlinear-approximation/C8E028C39B8A849690D0EC418516A934), DeVore, Acta Numerica 1998 - long, but please do read sections 1 and 9 at least"
-    - "[Approximation Theory and Approximation Practice](https://epubs-siam-org.proxy.library.cornell.edu/doi/book/10.1137/1.9781611975949), Trefethen, SIAM 2019 - a beautiful text, focused on polynomial and rational approximation in 1D; useful to skim, don't consider it assigned reading"
-    - "[A Course in Approximation Theory](http://www.ams.org.proxy.library.cornell.edu/books/gsm/101/gsm101.pdf), Cheney and Light, AMS 2009 - again, not considered assigned reading (unless you want to do DNN approximation, in which case please read ch 23-25)"
-#
-# ==================
-# Week 8
-#
--
-  date: 2025-03-11
-  info: Low-dim structure in function approximation
-  hw:
-    - "[Active Subspaces: Emerging Ideas for Dimension Reduction in Parameter Studies](https://epubs.siam.org/doi/book/10.1137/1.9781611973860), Constantine, SIAM 2015"
-    - "[Active Subspace Methods in Theory and Practice: Applications to Kriging Surfaces](https://epubs.siam.org/doi/10.1137/130916138), Constantine, Dow, and Wang, SISC 2014"
-    - "[Active Manifolds: a non-linear analogue to Active Subspaces](https://arxiv.org/pdf/1904.13386.pdf), Bridges, Gruber, Felder, Verma, Hoff, ICML 2019"
-    - "[Constrained global optimization of functions with low effective dimensionality using multiple random embeddings](https://arxiv-org.proxy.library.cornell.edu/abs/2009.10446), Cartis, Massart, Otemissov, arXiv 2020"
--
-  date: 2025-03-13
-  info: Low-dim structure in function approximation
-  hw:
-    - "[Approximation of high-dimensional parametric PDEs](https://arxiv.org/pdf/1502.06797), Cohen, DeVore, Acta Numerica 2015"
-    - "[Model reduction via proper orthogonal decomposition](https://link-springer-com.proxy.library.cornell.edu/chapter/10.1007%2F978-3-540-78841-6_5), Pinnau, in Model Order Reduction: Theory, Research Aspects and Applications, Springer 2008"
-    - "[Nonlinear model reduction via discrete empirical interpolation](https://epubs.siam.org/doi/abs/10.1137/090766498), Chaturantabut, Sorensen, SISC 2010"
-#
-# ==================
 # Week 9
 #
 -
-  date: 2025-03-18
+  date: 2025-03-04
   info: Many interpretations of kernels
-  travel: Simons
+  travel: SIAM CSE
   hw:
     - "[ESL](https://web.stanford.edu/~hastie/ElemStatLearn/), sec 14.5.4"
     - "[Kernel techniques: From machine learning to meshless
@@ -220,9 +171,9 @@
        Data](https://epubs.siam.org/doi/book/10.1137/1.9781611970128),
        Wahba, SIAM 1990 - read the foreword in particular"
 -
-  date: 2025-03-20
+  date: 2025-03-06
   info: Approaches to kernel selection
-  travel: Simons
+  travel: SIAM CSE
   hw:
     - "[Spline Models for Observational
         Data](https://epubs.siam.org/doi/book/10.1137/1.9781611970128),
@@ -238,7 +189,7 @@
 # Week 10
 #
 -
-  date: 2025-03-25
+  date: 2025-03-11
   info: Computing with kernels
   hw:
     - "[Spline Models for Observational
@@ -248,7 +199,7 @@
         Learning](http://www.gaussianprocess.org/gpml/), Rasumussen
         and Williams, 2006 - read Ch 8"
 -
-  date: 2025-03-27
+  date: 2025-03-13
   info: Scalable kernel methods
   hw:
     - "[Kernel Interpolation for Scalable Structured
@@ -265,6 +216,55 @@
     - "[Fast estimation of tr(f(A)) via stochastic Lanczos
         quadrature](https://doi.org/10.1137/16M1104974), Ubaru, Chen,
         and Saad, SIMAX 2017"
+#
+# ==================
+# Week 7
+#
+-
+  date: 2025-03-18
+  info: Nonlinear dimensionality reduction
+  travel: Simons
+  hw:
+    - "[A global geometric framework for nonlinear dimensionality reduction](https://web.mit.edu/cocosci/Papers/sci_reprint.pdf),
+       Tenenbaum, de Silva, and Langford, Science 2000"
+    - "[Nonlinear dimensionality reduction by locally linear embedding](https://science.sciencemag.org/content/sci/290/5500/2323.full.pdf),
+       Roweis and Saul, Science 2000"
+    - "[Visualizing Data using t-SNE](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf), van der Maaten and Hinton, JMLR
+       2008"
+    - "[Dimensionality Reduction: A Comparitive Review](https://lvdmaaten.github.io/publications/papers/TR_Dimensionality_Reduction_Review_2009.pdf), van der Maaten,
+      Postma, and van den Herik, Tech report 2009"
+    - "[Dimension Reduction: A Guided Tour](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/FnT_dimensionReduction.pdf), Burges, FTML 2009"
+    - "[Global versus local methods in nonlinear dimensionality reduction](https://web.mit.edu/cocosci/Papers/nips02-localglobal-in-press.pdf), de Silva and Tenenbaum, NeurIPS 2003"
+    - "[Large-scale SVD and manifold learning](https://www.jmlr.org/papers/v14/talwalkar13a.html), Talwalkar, Kumar, Mohri,
+       and Rowley, JMLR 2013"
+    - "[Accelerating t-SNE using tree-based algorithms](https://jmlr.org/papers/v15/vandermaaten14a.html), van der Maaten, JMLR 2014"
+-
+  date: 2025-03-21
+  info: Function approximation fundamentals
+  travel: Simons
+  hw:
+    - "[Nonlinear Approximation](https://www-cambridge-org.proxy.library.cornell.edu/core/journals/acta-numerica/article/nonlinear-approximation/C8E028C39B8A849690D0EC418516A934), DeVore, Acta Numerica 1998 - long, but please do read sections 1 and 9 at least"
+    - "[Approximation Theory and Approximation Practice](https://epubs-siam-org.proxy.library.cornell.edu/doi/book/10.1137/1.9781611975949), Trefethen, SIAM 2019 - a beautiful text, focused on polynomial and rational approximation in 1D; useful to skim, don't consider it assigned reading"
+    - "[A Course in Approximation Theory](http://www.ams.org.proxy.library.cornell.edu/books/gsm/101/gsm101.pdf), Cheney and Light, AMS 2009 - again, not considered assigned reading (unless you want to do DNN approximation, in which case please read ch 23-25)"
+#
+# ==================
+# Week 8
+#
+-
+  date: 2025-03-25
+  info: Low-dim structure in function approximation
+  hw:
+    - "[Active Subspaces: Emerging Ideas for Dimension Reduction in Parameter Studies](https://epubs.siam.org/doi/book/10.1137/1.9781611973860), Constantine, SIAM 2015"
+    - "[Active Subspace Methods in Theory and Practice: Applications to Kriging Surfaces](https://epubs.siam.org/doi/10.1137/130916138), Constantine, Dow, and Wang, SISC 2014"
+    - "[Active Manifolds: a non-linear analogue to Active Subspaces](https://arxiv.org/pdf/1904.13386.pdf), Bridges, Gruber, Felder, Verma, Hoff, ICML 2019"
+    - "[Constrained global optimization of functions with low effective dimensionality using multiple random embeddings](https://arxiv-org.proxy.library.cornell.edu/abs/2009.10446), Cartis, Massart, Otemissov, arXiv 2020"
+-
+  date: 2025-03-27
+  info: Low-dim structure in function approximation
+  hw:
+    - "[Approximation of high-dimensional parametric PDEs](https://arxiv.org/pdf/1502.06797), Cohen, DeVore, Acta Numerica 2015"
+    - "[Model reduction via proper orthogonal decomposition](https://link-springer-com.proxy.library.cornell.edu/chapter/10.1007%2F978-3-540-78841-6_5), Pinnau, in Model Order Reduction: Theory, Research Aspects and Applications, Springer 2008"
+    - "[Nonlinear model reduction via discrete empirical interpolation](https://epubs.siam.org/doi/abs/10.1137/090766498), Chaturantabut, Sorensen, SISC 2010"
 #
 # ==================
 # Spring break week
