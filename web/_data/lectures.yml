@@ -85,6 +85,7 @@
 -
   date: 2025-02-20
   info: Non-negative matrix factorization
+  notes: 2025-02-20.html
   hw:
     - "[Nonnegative Matrix Factorization](https://epubs.siam.org/doi/book/10.1137/1.9781611976410) (Gillis), Chapter 1"
     - "[The Whys and Hows of NMF](https://arxiv.org/abs/1401.5226), Gillis"
