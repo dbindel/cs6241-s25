@@ -3,9 +3,9 @@ title: Project proposal
 layout: main
 ---
 
-**Due: October 17, 2021**
+**Due: March 11, 2025**
 
-The goal of this assignment is to get you rhinking about your final
+The goal of this assignment is to get you thinking about your final
 project.  I would like a short (1-2 page) proposal of what you would
 like to do, and with whom you plan to work.  Groups of 1-3 are fine,
 but should ideally be fixed for the remainder of the project.
@@ -51,6 +51,6 @@ Include references to other papers where appropriate.
 ## Submission guidelines
 
 Your paper should be properly typeset and submitted as a PDF on
-Canvas.  You can work on and submit in teams of size 1-3; these do not
+CMS.  You can work on and submit in teams of size 1-3; these do not
 need to be the same as for your reaction paper.  Please include all of
 the team member names and netids on the submission.
