@@ -11,7 +11,11 @@ Lecture location: Snee 1120
 
 Prof: [David Bindel](http://www.cs.cornell.edu/~bindel)  
 Email: <bindel@cornell.edu>  
-OH: TBA, or [by appointment](https://outlook.office365.com/owa/calendar/BindelOH@cornellprod.onmicrosoft.com/bookings/).
+OH: M 3:30-4:30, Thu 1:30-2:30, or [by appointment](https://outlook.office365.com/owa/calendar/BindelOH@cornellprod.onmicrosoft.com/bookings/).
+
+TA: [Darian Nwankwo](https://www.dariannwankwo.com/)  
+Email: <don4@cornell.edu>  
+OH: W 1-2, F 2-3 in Gates 350
 
 ## Course description
 
