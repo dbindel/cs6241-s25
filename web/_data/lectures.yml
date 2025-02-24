@@ -115,15 +115,13 @@
   date: 2025-02-25
   info: Tensor basics, HOSVD, Tucker, and ALS
   hw:
+    - "[Tensor Decompositions for Data Science](https://www.mathsci.ai/post/tensor-textbook/), Kolda and Ballard"
     - "[Tensor Decompositions and
        Applications](https://epubs-siam-org.proxy.library.cornell.edu/doi/10.1137/07070111X),
        Kolda and Bader, SIREV, 2009"
     - "[Tensor Computations and Applications in Data
        Mining](https://client.blueskybroadcast.com/siam08/pdf/s18.pdf),
        Elden, slides from SIAM AM 2008"
-    - "[From Matrix to
-       Tensor](https://www.cs.cornell.edu/cv/OtherPdf/Mat2Ten.pdf), Van
-       Loan, slides from Cornell CS colloquium"
     - "[Tensors for Data Mining and Data
        Fusion](https://www.cs.ucr.edu/~epapalex/papers/tist16-tensors.pdf),
        Papalexakis, Faloutsos, and Sidriropoulos, ACM TIS, 2016" 
