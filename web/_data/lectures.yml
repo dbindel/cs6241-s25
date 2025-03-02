@@ -153,6 +153,7 @@
 #
 -
   date: 2025-03-04
+  notes: 2025-03-04.html
   info: Many interpretations of kernels
   travel: SIAM CSE
   hw:
@@ -170,6 +171,7 @@
        Wahba, SIAM 1990 - read the foreword in particular"
 -
   date: 2025-03-06
+  notes: 2025-03-06.html
   info: Approaches to kernel selection
   travel: SIAM CSE
   hw:
