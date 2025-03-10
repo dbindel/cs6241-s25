@@ -190,6 +190,7 @@
 #
 -
   date: 2025-03-11
+  notes: 2025-03-11.html
   info: Computing with kernels
   hw:
     - "[Spline Models for Observational
