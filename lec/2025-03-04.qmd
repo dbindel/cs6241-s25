@@ -300,13 +300,15 @@ $$\mbox{minimize } \|\hat{f}\|_{\mathcal{H}}^2
   \mbox{ s.t.~} \hat{f}_X = f_X.$$ We can also express evaluation of
 $\hat{f}$ at a point in terms of the inner product; if we define
 $k_y \in \mathcal{H}$ by $$k_y(x) = \sum_{i=1}^N \psi_i(y) \psi_i(x),$$
-then $$\begin{aligned}
+then
+$$\begin{aligned}
   \left\langle \hat{f}, k_y \right\rangle_{\mathcal{H}} 
    &= \left\langle \sum_{i=1}^N c_i \psi_i,
              \sum_{j=1}^N \psi_j(y) \psi_j \right\rangle_{\mathcal{H}} \\
    & = \sum_{i,j} c_i \psi_j(y) \left\langle \psi_i, \psi_j \right\rangle_{\mathcal{H}} 
    = \sum_{i=1}^N c_i \psi_i(y) = \hat{f}(y).
-\end{aligned}$$ This idea applies more generally: we can write point
+\end{aligned}$$
+This idea applies more generally: we can write point
 evaluation at $y$ for any function $g \in \mathcal{F}$ as
 $\langle g, k_y \rangle_{\mathcal{H}}$, where the feature vector
 $\psi(y)$ gives the coefficients for the evaluation function $k_y$. Note
@@ -489,7 +491,8 @@ In the previous two sections, we have developed two ways to think about
 the error analysis of kernel methods to interpolate $f$:
 
 1.  *Optimal approximation*: suppose $\|f\|_{\mathcal{H}} \leq C$ and
-    let $$\begin{aligned}
+    let 
+    $$\begin{aligned}
       \mathcal{F} &=
         \left\{
         g \in \mathcal{H} : \|g\|_{\mathcal{H}} \leq C \mbox{ and } g_X = f_X
@@ -500,8 +503,8 @@ the error analysis of kernel methods to interpolate $f$:
           \langle \hat{f}, u \rangle_{\mathcal{H}} = 0 \mbox{ and }
           \|u\|_{\mathcal{H}}^2 \leq C^2 - \|\hat{f}\|_{\mathcal{H}}^2
         \right\}.
-      
-    \end{aligned}$$ That is, $\hat{f}$ is the center point of a region
+    \end{aligned}$$ 
+    That is, $\hat{f}$ is the center point of a region
     that is both consistent with the data constraints and the norm
     constraints. Because it is at the center of this set, $\hat{f}$
     minimizes the *worst possible error* (in the native space norm) over
