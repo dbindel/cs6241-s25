@@ -287,6 +287,7 @@
 -
   date: 2025-04-08
   info: Matrices associated with graphs
+  notes: 2025-04-08.html
   hw:
     - "[Graph Algorithms in the Language of Linear
        Algebra](https://epubs.siam.org/doi/book/10.1137/1.9780898719918),
@@ -300,6 +301,7 @@
 -
   date: 2025-04-10
   info: Function approximation on graphs
+  notes: 2025-04-10.html
   hw:
     - "[Semi-Supervised Learning Using Gaussian Fields and Harmonic
         Functions](https://www.cs.cornell.edu/courses/cs6241/2020sp/readings/ZGL-2003-SSL.pdf),
