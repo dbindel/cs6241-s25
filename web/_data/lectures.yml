@@ -323,6 +323,7 @@
 -
   date: 2025-04-15
   info: Graph clustering and partitioning
+  notes: 2025-04-15.html
   hw:
     - "[A tutorial on spectral
         clustering](https://www.cs.cornell.edu/courses/cs6241/2020sp/readings/vonLuxburg-2007-spectral.pdf),
@@ -339,6 +340,7 @@
 -
   date: 2025-04-17
   info: Centrality measures
+  notes: 2025-04-17.html
   hw:
     - "[On the Limiting Behavior of Parameter-Dependent Network
         Centrality
